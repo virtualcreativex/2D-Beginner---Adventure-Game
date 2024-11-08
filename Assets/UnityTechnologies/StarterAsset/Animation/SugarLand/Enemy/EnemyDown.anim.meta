@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 98d68902b7b5c9d40bdb1b2b24136116
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 271239
+  packageName: 'Unity Learn | 2D Beginner: Adventure Game Complete Project | URP'
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/StarterAsset/Animation/SugarLand/Enemy/EnemyDown.anim
+  uploadId: 701356

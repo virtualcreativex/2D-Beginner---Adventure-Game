@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 89c429289a4c78c4fbe1d21100991270
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 271239
+  packageName: 'Unity Learn | 2D Beginner: Adventure Game Complete Project | URP'
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/StarterAsset/Animation/Ruby/Player/PlayerIdleUp.anim
+  uploadId: 701356

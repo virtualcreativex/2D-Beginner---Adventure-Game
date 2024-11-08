@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 463c1b2e414089948afddde6f354fc1c
+PrefabImporter:
+  externalObjects: {}
+  addedSourceAssetObjects: []
+  isPrefabVariant: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 271239
+  packageName: 'Unity Learn | 2D Beginner: Adventure Game Complete Project | URP'
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/Final/Prefabs/SugarLand/HealthToffee.prefab
+  uploadId: 701356

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f5d02ba8d37e1fe4ea48792047bd6afb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 271239
+  packageName: 'Unity Learn | 2D Beginner: Adventure Game Complete Project | URP'
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/Final/Tiles/Ducko/VerticalFalloff_1.asset
+  uploadId: 701356

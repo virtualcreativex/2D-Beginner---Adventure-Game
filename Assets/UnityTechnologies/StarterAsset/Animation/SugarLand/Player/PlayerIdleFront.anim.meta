@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b8c80d2c6a7111948aca97cca9f552c4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 271239
+  packageName: 'Unity Learn | 2D Beginner: Adventure Game Complete Project | URP'
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/StarterAsset/Animation/SugarLand/Player/PlayerIdleFront.anim
+  uploadId: 701356

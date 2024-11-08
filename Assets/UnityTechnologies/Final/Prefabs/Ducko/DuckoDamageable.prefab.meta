@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ceee4f3cf275a21449513867f68c71ab
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 271239
+  packageName: 'Unity Learn | 2D Beginner: Adventure Game Complete Project | URP'
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/Final/Prefabs/Ducko/DuckoDamageable.prefab
+  uploadId: 701356

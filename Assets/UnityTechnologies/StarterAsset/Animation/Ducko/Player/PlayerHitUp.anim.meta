@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3daab8426a1f1914488584effcf83685
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 271239
+  packageName: 'Unity Learn | 2D Beginner: Adventure Game Complete Project | URP'
+  packageVersion: 1.1
+  assetPath: Assets/UnityTechnologies/StarterAsset/Animation/Ducko/Player/PlayerHitUp.anim
+  uploadId: 701356
