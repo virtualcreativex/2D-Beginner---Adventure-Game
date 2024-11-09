@@ -11,7 +11,6 @@ public class PlayerController : MonoBehaviour
         MoveAction.Enable();  
     }
 
-
     // Update is called once per frame
     void Update()
     {
