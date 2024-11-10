@@ -20,7 +20,6 @@ public class PlayerController : MonoBehaviour
         rigidbody2d = GetComponent<Rigidbody2D>();
         
         currentHealth = maxHealth;
-        
     }
     
     // Update is called once per frame
