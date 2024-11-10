@@ -7,12 +7,20 @@ public class PlayerController : MonoBehaviour
     public InputAction MoveAction;
     Rigidbody2D rigidbody2d;
     Vector2 move;
+    
+    public int maxHealth = 5;
+    int currentHealth;
+    
+    
 
     // Start is called before the first frame update
     void Start()
     {
         MoveAction.Enable();  
         rigidbody2d = GetComponent<Rigidbody2D>();
+        
+        currentHealth = maxHealth;
+        
     }
     
     // Update is called once per frame
